@@ -1,0 +1,15 @@
+F:\NORBI\moshAlgorithms\practiceProject\practiceProject\bin\Debug\net6.0\practiceProject.exe
+F:\NORBI\moshAlgorithms\practiceProject\practiceProject\bin\Debug\net6.0\practiceProject.deps.json
+F:\NORBI\moshAlgorithms\practiceProject\practiceProject\bin\Debug\net6.0\practiceProject.runtimeconfig.json
+F:\NORBI\moshAlgorithms\practiceProject\practiceProject\bin\Debug\net6.0\practiceProject.dll
+F:\NORBI\moshAlgorithms\practiceProject\practiceProject\bin\Debug\net6.0\practiceProject.pdb
+F:\NORBI\moshAlgorithms\practiceProject\practiceProject\obj\Debug\net6.0\practiceProject.csproj.AssemblyReference.cache
+F:\NORBI\moshAlgorithms\practiceProject\practiceProject\obj\Debug\net6.0\practiceProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\NORBI\moshAlgorithms\practiceProject\practiceProject\obj\Debug\net6.0\practiceProject.AssemblyInfoInputs.cache
+F:\NORBI\moshAlgorithms\practiceProject\practiceProject\obj\Debug\net6.0\practiceProject.AssemblyInfo.cs
+F:\NORBI\moshAlgorithms\practiceProject\practiceProject\obj\Debug\net6.0\practiceProject.csproj.CoreCompileInputs.cache
+F:\NORBI\moshAlgorithms\practiceProject\practiceProject\obj\Debug\net6.0\practiceProject.dll
+F:\NORBI\moshAlgorithms\practiceProject\practiceProject\obj\Debug\net6.0\refint\practiceProject.dll
+F:\NORBI\moshAlgorithms\practiceProject\practiceProject\obj\Debug\net6.0\practiceProject.pdb
+F:\NORBI\moshAlgorithms\practiceProject\practiceProject\obj\Debug\net6.0\practiceProject.genruntimeconfig.cache
+F:\NORBI\moshAlgorithms\practiceProject\practiceProject\obj\Debug\net6.0\ref\practiceProject.dll
